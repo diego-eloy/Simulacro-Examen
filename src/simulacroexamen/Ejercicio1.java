@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author Diego-Eloy DAM 1
  */
-public class Ejercicio_1 {
+public class Ejercicio1 {
 
     static Scanner teclado = new Scanner(System.in);
 
